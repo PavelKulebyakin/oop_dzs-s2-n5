@@ -1,0 +1,5 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (D_Array.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  D_Array.cpp
+  main.cpp
+  Создание кода...
+  D_Array.vcxproj -> D:\Visual Studio\My_Projects\Home_work_p_1\x64\Debug\n5_Dinamic_array.exe
